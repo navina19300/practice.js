@@ -29,5 +29,5 @@ let name = "Navina";
 let name1 = "Dhanasekaran";
 console.log(name1);
 
-let id = 123445;
+const id = 1906;
 console.log(id);
