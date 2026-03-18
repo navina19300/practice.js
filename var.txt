@@ -1,0 +1,3 @@
+variable -> used to store data
+var,let and const
+
