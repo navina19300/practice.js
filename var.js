@@ -26,8 +26,16 @@
 // console.log(name);
 
 let name = "Navina";
+<<<<<<< HEAD
 let name1 = "Dhanasekaran";
 console.log(name1);
 
 const id = 1906;
 console.log(id);
+=======
+let name1 = "Gowdham";
+console.log(name1);
+
+const age = 25
+console.log(age);
+>>>>>>> master
