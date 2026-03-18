@@ -28,3 +28,6 @@
 let name = "Navina";
 let name1 = "Gowdham";
 console.log(name1);
+
+const age = 25
+console.log(age);
