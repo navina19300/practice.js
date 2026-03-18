@@ -28,3 +28,6 @@
 let name = "Navina";
 let name1 = "Gowdham";
 console.log(name1);
+
+let id = 123445;
+console.log(id);
