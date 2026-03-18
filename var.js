@@ -26,7 +26,7 @@
 // console.log(name);
 
 let name = "Navina";
-let name1 = "Gowdham";
+let name1 = "Dhanasekaran";
 console.log(name1);
 
 let id = 123445;
